@@ -1,4 +1,4 @@
-# cffinit: a web application to create CITATION.cff files
+# cffinit: a web application to create CITATION.cff files 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404735.svg)](https://doi.org/10.5281/zenodo.1404735)
 [![Build](https://github.com/citation-file-format/cff-initializer-javascript/actions/workflows/ghpages.yml/badge.svg)](https://github.com/citation-file-format/cff-initializer-javascript/actions/workflows/ghpages.yml)
