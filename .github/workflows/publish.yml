@@ -4,6 +4,7 @@ on: # publish when main branch changes
   push:
     tags:
       - '*'
+  workflow_dispatch:
 
 jobs:
   publish:
