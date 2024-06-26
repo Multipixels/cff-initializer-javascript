@@ -16,9 +16,9 @@
                         class="q-gutter-md q-mb-xl"
                         style="font-size: 1.3rem"
                     >
-                        <h1>Generate your citation metadata files with ease</h1>
+                        <h1>Generate your README text files with ease</h1>
                         <p>
-                            <code class="decoration">CITATION.cff</code>
+                            <code class="decoration">README.txt</code>
                             files are plain text files with human- and machine-readable citation information for software and datasets.
                         </p>
                         <p>Code developers can include such files in their source code repositories to let others know how to correctly cite their software.</p>
@@ -46,7 +46,7 @@
                         class="q-mb-md"
                         style="font-size: 1.2rem"
                     >
-                        Create your CITATION.cff now, or start from an existing file!
+                        Create your README.cff now, or start from an existing file!
                     </div>
                     <div class="justify-center q-gutter-md">
                         <q-btn
